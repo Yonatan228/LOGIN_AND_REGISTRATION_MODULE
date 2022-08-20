@@ -1,0 +1,41 @@
+@charset "UTF-8";
+*{
+margin: 0;
+padding: 0;
+}
+
+body {
+	background-color: lightblue;
+}
+
+button{
+	margin-top: 10px;
+	width: 70px;
+	height: 30px;
+	color:blue;
+}
+
+h3{
+	color:red;
+	margin-top:15px;
+}
+
+.header {
+	background-color: blue;
+	color: white;
+}
+
+.table{
+	margin-top: 50px;
+    border-spacing:0 15px;
+}
+
+
+.link1{
+	margin-top:20px;
+}
+
+.success{
+	color:blue;
+	margin-top:20px;
+}
