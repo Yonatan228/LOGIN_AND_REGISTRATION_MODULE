@@ -1,6 +1,6 @@
 # LOGIN-REGISTRATION-MODULE
 
-This is a simple login and registration Client-Server Web module using Java.
+This is a simple login and registration Client-Server Web module implemented in Java.
 
 Front End:
 * HTML
