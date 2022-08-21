@@ -19,5 +19,5 @@ DataBase:
 * MySQL
 
 
-To run the program you need the Apache tomcat server and MySQL database.
-Before running the program create the necessary database by running the script in the init.sql file in your MySQL shell and in the servlets enter your mysql userName and password.
+To run the app, Apache tomcat server and MySQL database are necessary.
+Create the necessary database by running the script in the init.sql file in your MySQL shell and in the servlets classes enter your mysql userName and password.
