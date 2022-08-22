@@ -5,7 +5,6 @@ This is a simple login and registration Client-Server Web module implemented in 
 Front End:
 * HTML
 * CSS
-* JSP
 
 Back End:
 * JSP
