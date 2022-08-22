@@ -2,19 +2,19 @@
 
 This is a simple login and registration Client-Server Web module implemented in Java.
 
-Front End:
+**Front End:**
 * HTML
 * CSS
 
-Back End:
+**Back End:**
 * JSP
 * Servlet
 * JDBC
 
-Server:
+**Server:**
 * Apache Tomcat
 
-DataBase:
+**DataBase:**
 * MySQL
 
 
